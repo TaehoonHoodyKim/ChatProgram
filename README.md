@@ -1,7 +1,7 @@
 # ChatProgram
 
-Compile this files.
-  ex) javac Filename.java.
+<p>Compile this files.</p>
+  <p>ex) javac Filename.java.</p>
 
 Run:
 
