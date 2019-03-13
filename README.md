@@ -9,7 +9,7 @@ Run:
     - java ChatServer [portNumber] [badwords.txt]
   2. open the Client.
     - java ChatClient [userName] [portNumber]
-  3. commands 
+  3. commands\n
   /msg [userName] [text] // send the text to the specific user
   /bot command           // show all possible commands to the user
 */
