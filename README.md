@@ -6,10 +6,10 @@
 Run:
 
   1. open the Server.
-    - java ChatServer [portNumber] [badwords.txt]
+    <p>- java ChatServer [portNumber] [badwords.txt]</p>
   2. open the Client.
-    - java ChatClient [userName] [portNumber]
+    <p>- java ChatClient [userName] [portNumber]</p>
   3. commands.
-  /msg [userName] [text] // send the text to the specific user.
-  /bot command           // show all possible commands to the user.
+  <p>/msg [userName] [text] // send the text to the specific user.</p>
+  <p>/bot command           // show all possible commands to the user.</p>
 
